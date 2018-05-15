@@ -1,5 +1,4 @@
 ./.idea
-python/.idea
+src/.idea
 *.pyc
 .idea/*
-.idea
